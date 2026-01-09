@@ -133,6 +133,11 @@ python backend/reset_ids.py --force
 
 The script supports SQLite, MySQL and PostgreSQL. It will detect your `DATABASE_URL` automatically from `backend/.env` (or your environment).
 
+##Wikipedia Quiz AI Generator Images
+
+
+
+
 ## Project Structure
 ```
 ai-wiki-quiz/
