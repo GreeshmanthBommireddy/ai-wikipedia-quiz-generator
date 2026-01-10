@@ -2,6 +2,10 @@
 
 **Developed by: Greeshmanth Reddy Bommireddy**
 
+## Live Demo Url
+
+https://aiquizgenerator-by-greeshu.vercel.app/
+
 A full-stack application that generates interactive quizzes from any Wikipedia article using **Google’s Gemini AI**.  
 This project strictly follows the assignment requirement of **React JS for frontend** and **Python (FastAPI) for backend**.
 
